@@ -1,4 +1,4 @@
-CotEditor theme based on [Selenized](https://github.com/jan-warchol/selenized) color scheme
+[CotEditor](https://coteditor.com/) theme based on [Selenized](https://github.com/jan-warchol/selenized) color scheme
 
 # Colors
 
