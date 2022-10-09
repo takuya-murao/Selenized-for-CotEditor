@@ -2,7 +2,7 @@
 
 # Colors
 
-| Kind            | Reference | Dark    | Light   |
+| Type            | Reference | Dark    | Light   |
 |-----------------|-----------|---------|---------|
 | Text            | fg_1      | #bfd0d0 | #2d3c42 |
 | Insertion point | fg_1      | #bfd0d0 | #2d3c42 |
@@ -13,7 +13,7 @@
 
 ## Syntax
 
-| Kind       | Reference | Dark    | Light   |
+| Type       | Reference | Dark    | Light   |
 |------------|-----------|---------|---------|
 | Keywords   | green     | #69ad21 | #3f8100 |
 | Commands   | orange    | #e26f35 | #b04713 |
