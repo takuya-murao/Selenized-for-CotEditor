@@ -1,0 +1,56 @@
+{
+  "attributes" : {
+    "color" : "#8762c6"
+  },
+  "background" : {
+    "color" : "#fbf3db"
+  },
+  "characters" : {
+    "color" : "#d2212d"
+  },
+  "commands" : {
+    "color" : "#c25d1e"
+  },
+  "comments" : {
+    "color" : "#53676d"
+  },
+  "insertionPoint" : {
+    "color" : "#3a4d53"
+  },
+  "invisibles" : {
+    "color" : "#909995"
+  },
+  "keywords" : {
+    "color" : "#489100"
+  },
+  "lineHighlight" : {
+    "color" : "#ece3cc"
+  },
+  "metadata" : {
+    "author" : "Takuya Murao",
+    "description" : "A CotEditor theme based on Selenized light color scheme (sRGB values)",
+    "license" : "Apache License 2.0"
+  },
+  "numbers" : {
+    "color" : "#d2212d"
+  },
+  "selection" : {
+    "color" : "#d5cdb6",
+    "usesSystemSetting" : false
+  },
+  "strings" : {
+    "color" : "#009c8f"
+  },
+  "text" : {
+    "color" : "#3a4d53"
+  },
+  "types" : {
+    "color" : "#0072d4"
+  },
+  "values" : {
+    "color" : "#ca4898"
+  },
+  "variables" : {
+    "color" : "#ad8900"
+  }
+}

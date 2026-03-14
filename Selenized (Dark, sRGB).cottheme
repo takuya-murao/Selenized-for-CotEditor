@@ -1,56 +1,56 @@
 {
   "attributes" : {
-    "color" : "#9b72e9"
+    "color" : "#af88eb"
   },
   "background" : {
-    "color" : "#112e38"
+    "color" : "#103c48"
   },
   "characters" : {
-    "color" : "#f13c3e"
+    "color" : "#fa5750"
   },
   "commands" : {
-    "color" : "#e26f35"
+    "color" : "#ed8649"
   },
   "comments" : {
-    "color" : "#9faeae"
+    "color" : "#adbcbc"
   },
   "insertionPoint" : {
-    "color" : "#bfd0d0"
+    "color" : "#cad8d9"
   },
   "invisibles" : {
-    "color" : "#61777c"
+    "color" : "#72898f"
   },
   "keywords" : {
-    "color" : "#69ad21"
+    "color" : "#75b938"
   },
   "lineHighlight" : {
-    "color" : "#163945"
+    "color" : "#184956"
   },
   "metadata" : {
     "author" : "Takuya Murao",
-    "description" : "A CotEditor theme based on Selenized dark color scheme",
+    "description" : "A CotEditor theme based on Selenized dark color scheme (sRGB values)",
     "license" : "Apache License 2.0"
   },
   "numbers" : {
-    "color" : "#f13c3e"
+    "color" : "#fa5750"
   },
   "selection" : {
-    "color" : "#254a57",
+    "color" : "#2d5b69",
     "usesSystemSetting" : false
   },
   "strings" : {
-    "color" : "#42bdaa"
+    "color" : "#41c7b9"
   },
   "text" : {
-    "color" : "#bfd0d0"
+    "color" : "#cad8d9"
   },
   "types" : {
-    "color" : "#3a82f8"
+    "color" : "#4695f7"
   },
   "values" : {
-    "color" : "#e75bb3"
+    "color" : "#f275be"
   },
   "variables" : {
-    "color" : "#d1a416"
+    "color" : "#dbb32d"
   }
 }
